@@ -1,0 +1,8 @@
+category: Libs
+requires: liblinebreak2
+external-source: liblinebreak
+sdesc: "Unicode line breaking algorithm library (development)"
+ldesc: "Liblinebreak is an implementation of the line breaking algorithm 
+as described in Unicode 6.0.0 Standard Annex 14, Revision 26. It breaks 
+lines that contain Unicode characters. It is designed to be used in a 
+generic text renderer."

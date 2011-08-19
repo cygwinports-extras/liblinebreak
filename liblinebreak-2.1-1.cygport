@@ -1,0 +1,7 @@
+DESCRIPTION="Unicode line breaking algorithm library"
+HOMEPAGE="http://vimgadgets.sourceforge.net/liblinebreak/"
+SRC_URI="mirror://sourceforge/vimgadgets/${P}.tar.gz"
+
+PKG_NAMES="liblinebreak2 liblinebreak-devel"
+liblinebreak2_CONTENTS="usr/bin/cyglinebreak-2.dll"
+liblinebreak_devel_CONTENTS="usr/include/ usr/lib/ usr/share/doc/"
